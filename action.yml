@@ -1,5 +1,5 @@
-name: 'get-current-truckee-weather'
-description: 'get current truckee weather from NWS'
+name: 'get-current-truckee-weather-nws'
+description: 'Get current weather for Truckee, CA from the NWS'
 outputs:
   current_weather:
     description: 'current weather and date generated at'
